@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Groovy: the unexpected null return value from the `each` method when used for list manipulation.  The `each` method iterates through a collection but doesn't modify the original collection or return a new one. This example shows the error and how to correct it using `collect`.
